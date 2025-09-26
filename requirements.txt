@@ -1,0 +1,3 @@
+sketchpy
+customtkinter
+Pillow
